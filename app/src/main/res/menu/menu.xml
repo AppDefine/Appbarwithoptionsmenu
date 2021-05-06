@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Payments"
+        android:orderInCategory="11"
+        app:showAsAction="never"
+        android:id="@+id/m1"
+        />
+
+    <item android:title="Groups"
+        android:orderInCategory="12"
+        app:showAsAction="never"
+        android:id="@+id/m2"
+        />
+
+    <item android:title="Settings"
+        android:orderInCategory="13"
+        app:showAsAction="never"
+        android:id="@+id/m3"
+        />
+
+    <item android:title="Mic"
+        android:orderInCategory="14"
+        app:showAsAction="always"
+        android:id="@+id/m4"
+        android:icon="@drawable/mic"
+        />
+
+
+
+
+
+
+
+
+
+
+
+</menu>
